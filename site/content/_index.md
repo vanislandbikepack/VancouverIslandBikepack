@@ -1,6 +1,6 @@
 ---
 title: Vancouver Island Bikepacking Collective
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Strap stuff on your bike & LET’S GO!
 image: img/_dsc0131_dxo2.png
 blurb:
   heading: Why Kaldi?
